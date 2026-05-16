@@ -24,24 +24,6 @@ Notebook ini berisi pipeline lengkap untuk klasifikasi tweet terkait program Mak
 └── README_case1.md           # Dokumentasi ini
 ```
  
----
- 
-## Requirements
- 
-```
-torch
-transformers
-scikit-learn
-pandas
-openpyxl
-numpy
-matplotlib
-seaborn
-wordcloud
-accelerate
-```
- 
- 
 ## Cara Menjalankan
  
 **Platform yang direkomendasikan:** Google Colab Pro (GPU A100/L4)  
